@@ -1,4 +1,6 @@
- var images = new Array();
+ <div id="banner">
+                <script type="text/javascript">
+                    var images = new Array();
                     index = 0;
                     var memVar;
 
@@ -19,3 +21,6 @@
                     }
                     */
                     document.write(images[index]);
+
+                </script>
+</div>
